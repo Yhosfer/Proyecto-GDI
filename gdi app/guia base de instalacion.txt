@@ -1,0 +1,8 @@
+primero ejecutar run_app
+
+luego ejecutar dev_run
+
+--en caso de que no corra abrir consola y ir a la carpeta del programa y luego usar los siguientes comandos
+
+pip install watchdog
+pip install mysql-connector-python
