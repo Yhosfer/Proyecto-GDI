@@ -1,4 +1,16 @@
-primero ejecutar run_app
+Primero descargar mysql
+Segundo descargar Workbench 
+abrir y crear un usuario root(de preferencia sin contraseña)
+cerrar y luego abrir MYSQL Command Line Cliente
+y presionar enter(en caso de poner contraseña ponerla)
+luego correr el script(copia el txt DB-ColegioPalermo y pegarlo y dar ENTER)
+
+Luego descargar el archivo gdi app.rar
+descomprimir en nuestra carpeta de preferencia
+
+segundo ejecutar run_app:
+este se emncargara de descargar todas las dependencias
+necesarias del programa
 
 luego ejecutar dev_run
 
